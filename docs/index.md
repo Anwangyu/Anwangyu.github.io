@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Welcome to WarZipern' note
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+欢迎来到一片荒地
+---
 
-## Commands
+关于开始使用的说明,关于将自己的笔记进行公开是这两天的想法，半夜睡不着没事学点东西琢磨琢磨，每次更新有限，忙完之后尽量把所有的笔记上传出去，9/27/ 00:39 <先休息了>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 为什么会做这个站点
 
-## Project layout
+- **记录**：临时起意，感觉需要记录点东西，学习点什么,留下点什么，其他的地方都是一些大佬，不如在我自己的土地开垦一下，便于自己的查阅。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- **传播**：同时，以网页这样一个可以多端访问的载体进行记录，我的一点点经验也可以很方便地进行传播。
+
+---
+

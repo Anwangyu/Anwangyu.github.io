@@ -1,1 +1,49 @@
-site_name: My Docs
+site_name: WarZipern's Notes
+
+repo_url: https://github.com/Anwangyu
+
+# repo_name: 'Anwangyu/anwangyu.github.io'
+
+site_author: WarZipern
+
+site_description: WarZipern's Notes
+
+theme: 
+  name: material
+  palette: 
+    primary: 'indigo'
+    accent: 'deep orange'
+
+  features: 
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+  language: 'en' 
+
+extra_javascript:
+  - js/katex.min.js
+  - js/mathtex-script-type.min.js
+  - js/copy-tex.min.js
+  - js/auto-render.min.js
+  - js/jquery-3.6.0.min.js # 使用最新的jQuery版本
+  - js/d3.v7.min.js # 更新D3.js到最新版本
+  - js/d3-flextree.js
+  - js/view.mindmap.js
+  - js/emoji.min.js 
+  - js/mermaid.min.js 
+  - js/highlight.pack.js 
+  - js/extra.js 
+  - js/readingtime.js 
+
+extra_css:
+  - css/katex.min.css
+  - css/copy-tex.min.css
+  - css/view.mindmap.css
+  - css/atom-one-dark-reasonable.css 
+  - css/font-awesome-all.min.css 
+  - css/emoji.css 
+  - css/extra.css
+  - css/custom.css  # 引入自定义 CSS
+
