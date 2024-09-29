@@ -10,13 +10,9 @@
     </figcaption>
 </figure>
 
-
 - **在进行更换之前，首先且最好对数据进行备份处理，这里拿Navicat16举例,双击需要导出的数据，确定为.sql文件（这几天在整理mysql因为懒复制data文件，后来更新版本等导致数据丢失/(ㄒoㄒ)/~~）**
 
-
-
-
-![image](./assets/image.png)
+![image-20240929101526160](./assets/image-20240929101526160.png)
 更换前的处理，在管理员终端，停止服务。(若有终端均在管理员下运行)
 
 ```bash
@@ -27,7 +23,7 @@ net stop mysql
 
 这里删除的差不多了，剩下的还有需要在卸载程序，卸载Server服务。
 
-![image 1](./assets/image%201.png)
+![image-20240929101657294](./assets/image-20240929101657294.png)
 
 之后 win+r,输入，检查是否有mysql，没有便可以了
 
@@ -35,7 +31,7 @@ net stop mysql
 services.msc
 ```
 
-![image 2](./assets/image%202.png)
+![image-20240929101722977](./assets/image-20240929101722977.png)
 
 若依然有则
 
