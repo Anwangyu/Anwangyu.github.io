@@ -16,6 +16,8 @@
         <link rel="prev" href="../Linux%20Docker%E5%AE%B9%E5%99%A8%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F%E6%BA%90%E5%A4%B1%E6%95%88%E9%97%AE%E9%A2%98/">
       
       
+        <link rel="next" href="../../ceshi/1/">
+      
       
       <link rel="icon" href="../../assets/images/favicon.png">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.38">
@@ -247,6 +249,26 @@
     
   
   Books on bug
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../ceshi/1/" class="md-tabs__link">
+          
+  
+    
+  
+  Ceshi
 
         </a>
       </li>
@@ -527,6 +549,76 @@
   
 
     
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Ceshi
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Ceshi
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ceshi/1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
   </ul>
 </nav>
                   </div>
@@ -611,17 +703,17 @@
 <ul>
 <li><strong>在进行更换之前，首先且最好对数据进行备份处理，这里拿Navicat16举例,双击需要导出的数据，确定为.sql文件（这几天在整理mysql因为懒复制data文件，后来更新版本等导致数据丢失/(ㄒoㄒ)/~~）</strong></li>
 </ul>
-<p><img alt="image" src="./assets/image.png" />
+<p><img alt="image-20240929101526160" src="../assets/image-20240929101526160.png" />
 更换前的处理，在管理员终端，停止服务。(若有终端均在管理员下运行)</p>
 <pre><code class="language-bash">net stop mysql
 </code></pre>
 <p>打开mysql的安装目录，全部删除（sql数据文件已备份！如果数据重要得确认已经导出）</p>
 <p>这里删除的差不多了，剩下的还有需要在卸载程序，卸载Server服务。</p>
-<p><img alt="image 1" src="./assets/image%201.png" /></p>
+<p><img alt="image-20240929101657294" src="../assets/image-20240929101657294.png" /></p>
 <p>之后 win+r,输入，检查是否有mysql，没有便可以了</p>
 <pre><code class="language-bash">services.msc
 </code></pre>
-<p><img alt="image 2" src="./assets/image%202.png" /></p>
+<p><img alt="image-20240929101722977" src="../assets/image-20240929101722977.png" /></p>
 <p>若依然有则</p>
 <pre><code class="language-bash">sc delete mysql
 或者

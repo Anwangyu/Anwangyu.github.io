@@ -1,7 +1,3 @@
-# 
-
-### 
-
 <figure style="display: flex; ">
     <img src="https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1fa9f.svg" width="100" style="margin-right: 1px;" />
     <figcaption style="max-width: 700px; white-space: normal;">
