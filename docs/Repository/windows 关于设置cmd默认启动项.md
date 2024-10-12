@@ -1,20 +1,18 @@
 
-
-
-
 <figure style="display: flex; ">
     <img src="https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f3a3.svg" width="100" style="margin-right: 1px;" />
     <figcaption style="max-width: 700px; white-space: normal;">
         <h1 style="margin: 0;">windows 关于设置cmd默认启动项</h1>
-        <span>💡 Tips!: 本篇是为了解决使用 CMD 默认启动后的初始页面设置 </span>
+        <span>💡 Tips!: 本篇是为了解决使用 CMD 默认启动后的初始页面设置      
+         </span>
     </figcaption>
 </figure>
 
 
 
 - 起因是大多数用户只是解决了使用右键打开或者新建一个终端的时候才显示自己需要的问题。
-- 60s解决  
-
+- ctime 60s
+- 💡温馨小提示:powershell无法百分百运行所有的脚本文件，比如要下载安全组策略的时候，所以，如果是深度程序用户，不建议使用，如果是体验用户可以使用
 上图
 
 ```java
