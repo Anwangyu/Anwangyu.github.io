@@ -5,9 +5,10 @@
         <span>💡Tips!: Failed to stop network-manager.service: Unit network-manager.service not loaded.</span>
     </figcaption>
 </figure>
-# 解决思路
-## 方法一
 
+# 解决思路
+
+## 方法一
 
 ```bash
 sudo service NetworkManager stop
