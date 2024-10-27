@@ -46,6 +46,9 @@ git push origin `master`
 ## Git其他命令参考 
 
 ```shell
+## 当无论如何都无法将本地最新提交到远程分支的时候
+git rm -r --cached .
+
 ## **查看当前git仓库状态**  
 git status
 

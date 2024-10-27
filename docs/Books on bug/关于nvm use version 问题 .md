@@ -5,9 +5,6 @@
         <span>💡 Tips!: 首先网上的大多数教程的下载是正确的，但是缺少了一个关于nvm use <version>显示成功但是版本并没有切换的解决。 </span>
     </figcaption>
 </figure>
-
-# 
-
 **单刀直入**
 
 比如说有两个版本

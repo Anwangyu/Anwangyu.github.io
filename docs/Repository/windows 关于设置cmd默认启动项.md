@@ -34,4 +34,3 @@ HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Command Processor
 ![image-20241007151515879](./assets/windows%20%E5%85%B3%E4%BA%8E%E8%AE%BE%E7%BD%AEcmd%E9%BB%98%E8%AE%A4%E5%90%AF%E5%8A%A8%E9%A1%B9/image-20241007151515879.png)
 
 <aside> 💡温馨提示，下次使用winget更新的时候，比如我想要使用新的版本了，记得看下autorun的路径确保启动的”xxx.exe”的路径正确即可
-
